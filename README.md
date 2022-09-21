@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 
 # pjy7814
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pjy7814)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjy7814&layout=compact&theme=buefy)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjy7814&layout=compact&theme=swift)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pjy7814&repo=CACA-Clonet)](https://github.com/pjy7814/CACA-Clonet)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pjy7814&repo=CACA)](https://github.com/pjy7814/CACA)

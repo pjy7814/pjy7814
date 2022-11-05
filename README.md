@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pjy7814&repo=CACA-Clonet)](https://github.com/pjy7814/CACA-Clonet)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pjy7814&repo=CACA)](https://github.com/pjy7814/CACA)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pjy7814&repo=SmileSpeedGate)][(https://github.com/pjy7814/SmileSpeedGate)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pjy7814&repo=SpringWebSite)][(https://github.com/pjy7814/SpringWebSite)]
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pjy7814&repo=Hallegali_Game_Socket)](https://github.com/pjy7814/Hallegali_Game_Socket)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pjy7814&repo=2021-Summer_Swift)](https://github.com/pjy7814/2021-Summer_Swift)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pjy7814&repo=2021-Summer_Kotlin)](https://github.com/pjy7814/2021-Summer_Kotlin)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pjy7814&repo=2021-Summer_Swift)](https://github.com/pjy7814/2021-Summer_Swift)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pjy7814&repo=2021-Summer_Kotlin)](https://github.com/pjy7814/2021-Summer_Kotlin) -->

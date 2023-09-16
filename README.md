@@ -50,9 +50,9 @@
 <h3 align="center"> 📌 Project 📌 </h3>
 <div align="center">
   
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pjy7814&repo=ShowMeWatson)](https://github.com/pjy7814/ShowMeWatson)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pjy7814&repo=CACA-Clonet)](https://github.com/pjy7814/CACA-Clonet)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pjy7814&repo=CACA)](https://github.com/pjy7814/CACA)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pjy7814&repo=SmileSpeedGate)](https://github.com/pjy7814/SmileSpeedGate)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pjy7814&repo=Algorithm)](https://github.com/pjy7814/Algorithm)
   
 </div>

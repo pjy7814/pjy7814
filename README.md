@@ -33,20 +33,20 @@
     <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white" />
   </div>
 </div>
-<br/><br/>
 
+<br/><br/>
 
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=pjy7814&show_icons=true">
-  <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pjy7814&layout=compact">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pjy7814&layout=compact&hide=dart,css,cmake">
     
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jiyoung00)](https://solved.ac/jiyoung00)
   </div>
 </div>
 
-<br/><br/>
+# 
 <h3 align="center"> 📌 Project 📌 </h3>
 <div align="center">
   
